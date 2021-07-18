@@ -1,0 +1,24 @@
+body{
+   margin: 0;
+   padding: 0;   
+   height: 95vh;
+   width: 95;
+   display: flex; 
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+.bloco-pontos{    
+    display: flex;
+}
+
+.tituloo{
+    margin: 0;
+    margin-top: 5px;
+}
+
+.pontoos{    
+    font-weight: bold;
+    color: tomato;
+}
